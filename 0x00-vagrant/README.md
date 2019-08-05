@@ -1,1 +1,1 @@
-This repositpry contains the file 0-hello_ubuntu
+This repository contains the file 0-hello_ubuntu
